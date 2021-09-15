@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./contracts/erc721/Cargo.toml",
+        "./contracts/receiver/Cargo.toml",
+    ]
+}
